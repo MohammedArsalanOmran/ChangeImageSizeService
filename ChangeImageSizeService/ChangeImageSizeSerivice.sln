@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeImageSizeSerivice", "ChangeImageSizeSerivice.csproj", "{3D4A3164-3887-49F3-81CA-1BB399A3D842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4A3164-3887-49F3-81CA-1BB399A3D842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4A3164-3887-49F3-81CA-1BB399A3D842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4A3164-3887-49F3-81CA-1BB399A3D842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4A3164-3887-49F3-81CA-1BB399A3D842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA05DE3-2AC2-4256-8006-3B7B102E735C}
+	EndGlobalSection
+EndGlobal
